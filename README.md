@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21tarun&label=Profile%20views&color=0e75b6&style=flat" alt="21tarun" /> </p>
 
-- 🔭 I’m currently working on [miniNetflix](https://github.com/21tarun/miniNetflix.git)
+- 🔭 I’m currently working on [miniNetflix](https://github.com/21tarun/doradoraChatApp.git)
 
 - 🌱 I’m currently learning **Trending Technologies**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21tarun&show_icons=true&locale=en&layout=compact" alt="21tarun" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21tarun&show_icons=true&locale=en" alt="21tarun" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21tarun&show_icons=true&locale=en" alt="21tarun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21tarun&" alt="21tarun" /></p>
 
