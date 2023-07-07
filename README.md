@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [doradoraChatApp](https://github.com/21tarun/doradoraChatApp.git)
 
-- 🌱 I’m currently learning **Trending Technologies**
+- 🌱 I’m currently learning python framwork (Django)
 
 - 📫 How to reach me **tarunuday2000@gmail.com**
 
