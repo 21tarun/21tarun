@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21tarun&label=Profile%20views&color=0e75b6&style=flat" alt="21tarun" /> </p>
 
-- 🔭 I’m currently working on [doradoraChatApp](https://github.com/21tarun/doradoraChatApp.git)
+- 🔭 I’m currently working on [doradoraChatApp](https://github.com/21tarun/doradoraChatApp.git) [nextjsProject](https://github.com/21tarun/nextjsProject.git)
 
 - 🌱 I’m currently learning python framwork (Django)
 
