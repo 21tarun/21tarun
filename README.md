@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [doradoraChatApp](https://github.com/21tarun/doradoraChatApp.git) & [nextjsProject](https://github.com/21tarun/nextjsProject.git)
 
-- 🌱 I’m currently learning python framwork (Django)
+- 🌱 I’m currently learning python framwork (Django) and GraphQL API Design
 
 - 📫 How to reach me **tarunuday2000@gmail.com**
 
